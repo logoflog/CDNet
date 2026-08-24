@@ -28,7 +28,7 @@ The dataset can be downloaded from the following drives. The links below are pla
 
 | Source | Link |
 | --- | --- |
-| Google Drive | [https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1Hc5OzWD1-7qKylZN-9UajkXgS0tu9NOL/view?usp=drive_link) |
+| Google Drive | [https://drive.google.com/file/d/1Hc5OzWD1-7qKylZN-9UajkXgS0tu9NOL/view?usp=drive_link](https://drive.google.com/file/d/1Hc5OzWD1-7qKylZN-9UajkXgS0tu9NOL/view?usp=drive_link) |
 | Quark Drive | [https://pan.quark.cn/s/58593be7114c](https://pan.quark.cn/s/58593be7114c) |
 
 After downloading, organize the images into two input sources:
